@@ -21,4 +21,4 @@ public:
 	void withdraw(int date, double amount);//取
 	void settle(int date);//利息
 };
-#endif#pragma once
+#endif
